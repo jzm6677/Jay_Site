@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my public GitHub Page
 
 You can use the [editor on GitHub](https://github.com/jzm6677/Jay_Site/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+
+you can find the page here (GitHub)(https://jzm6677.github.io/Jay_Site/.)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
