@@ -3,6 +3,7 @@ This is a page that give an Idea of who I am
 
 ## About this site
 [Resume]
+
 [Portfolio](portfolio.md)
 
 
