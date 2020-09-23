@@ -2,8 +2,10 @@
 Here you can find some of my creation involving editing, flim, and animation.
 
 ## Animation
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/CeoTDofudK4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](video/https://www.youtube.com/watch?v=CeoTDofudK4)
 
+<figure class="video_container">
+  <iframe src="https://youtu.be/CeoTDofudK4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure> 
 
 ## Video Editing
 
