@@ -2,7 +2,7 @@
 This is a page that give an Idea of who I am
 
 ## About this site
-[Resume]
+[Resume](Resume.md)
 
 [Portfolio](portfolio.md)
 
