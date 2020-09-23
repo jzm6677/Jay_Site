@@ -24,3 +24,12 @@ Here you see some of both my physical and digital drawings.
 ## City Street
 
 ![IMG_7838.PNG](images/IMG_7838.PNG)
+
+
+
+
+
+
+
+
+# My Original Charaters
