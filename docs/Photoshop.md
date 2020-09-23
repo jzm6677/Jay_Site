@@ -1,18 +1,18 @@
-[CapVSironmanD](capironman-grid-2.jpg)
+[CapVSironmanD](images/capironman-grid-2.jpg)
 
 
-[ItachiEffect](itachieffect.jpg)
+[ItachiEffect](images/itachieffect.jpg)
 
 
-[NightcrawlerGlitch](Nightcrawler-PNG-Image.jpg)
+[NightcrawlerGlitch](images/Nightcrawler-PNG-Image.jpg)
 
 
-[NightwingGlitch](nightwing-in-bludhaven-1.jpg)
+[NightwingGlitch](images/nightwing-in-bludhaven-1.jpg)
 
 
-[StarwarsOverlay](Star Wars blend.jpg)
+[StarwarsOverlay](images/Star Wars blend.jpg)
 
 
-[WolfSpirits](WolfBlend2.jpg)
+[WolfSpirits](images/WolfBlend2.jpg)
 
 
