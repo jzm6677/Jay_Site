@@ -2,7 +2,7 @@
 
 I'm a digital artisit I'v been creating these kinds of projects.
 
-1. Photoshop
+1. [Photoshop](Photoshop.md)
 
 1. Drawings
 
