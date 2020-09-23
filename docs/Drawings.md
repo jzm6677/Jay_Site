@@ -33,3 +33,14 @@ Here you see some of both my physical and digital drawings.
 
 
 # My Original Charaters
+
+![Monster Concept EX1.png](Monster Concept EX1.png)
+
+
+![Kai First Concept EX1.png](Kai First Concept EX1.png)
+
+
+![RW First Concept EX1.png](RW First Concept EX1.png)
+
+
+![Zane Design Idea1.png](Zane Design Idea1.png)
