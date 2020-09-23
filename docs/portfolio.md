@@ -12,3 +12,5 @@ I'm a digital artisit I'v been creating these kinds of projects.
 
 
 1. [Videos](Videos.md)
+
+1. [Sound Compositions](Sound Compositions.md)
