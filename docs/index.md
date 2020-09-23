@@ -15,6 +15,8 @@ You can use the [editor on GitHub](https://github.com/jzm6677/Jay_Site/edit/mast
 
 you can find the page here [GitHub](https://jzm6677.github.io/Jay_Site/)
 
+[Help](Help.md)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
