@@ -1,7 +1,7 @@
 # Photoshop Projects
 
 This pages will contain some of my Photoshop work. 
-Showing my progress, pontenail, and ability in my projects.
+Showing my progress, potential, and ability in my projects.
 
 
 ## Cap v Ironman Disintegration Effect
