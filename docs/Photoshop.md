@@ -7,7 +7,7 @@
 [NightcrawlerGlitch](images/Nightcrawler-PNG-Image.jpg)
 
 
-[NightwingGlitch](images/nightwing-in-bludhaven-1.jpg)
+![NightwingGlitch](images/nightwing-in-bludhaven-1.jpg)
 
 
 [StarwarsOverlay](images/Star Wars blend.jpg)
