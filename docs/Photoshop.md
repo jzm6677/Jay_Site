@@ -16,7 +16,7 @@ Showing my progress, pontenail, and ability in my projects.
 ## Nightwing Glitch
 ![NightwingGlitch](images/nightwing-in-bludhaven-1.jpg)
 
-##Anakin v Darth Vader
+## Anakin v Darth Vader
 ![StarwarsOverlay](images/Star Wars blend.jpg)
 
 ## Wolf Spirits
