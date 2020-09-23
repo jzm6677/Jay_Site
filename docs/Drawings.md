@@ -5,22 +5,22 @@ Here you see some of both my physical and digital drawings.
 
 ![IMG_7826.PNG](images/IMG_7826.PNG)
 
-## 1
+## Hands
 
 ![IMG_7827.PNG](images/IMG_7827.PNG)
 
-## 2
+## Pencil Wolf
 
 ![IMG_7829.PNG](images/IMG_7829.PNG)
 
-## 3
+## Eyes
 
 ![IMG_7832.PNG](images/IMG_7832.PNG)
 
-## 4
+## Forest
 
 ![IMG_7836.PNG](images/IMG_7836.PNG)
 
-## 5
+## City Street
 
 ![IMG_7838.PNG](images/IMG_7838.PNG)
