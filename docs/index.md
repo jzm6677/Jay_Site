@@ -1,7 +1,10 @@
 # Welcome to my public GitHub Page
 This is a page that give an Idea of who I am
 
-## About this site
+## About Me
+
+[About Me](aboutme.md)
+
 [Resume](Resume.md)
 
 [Portfolio](portfolio.md)
