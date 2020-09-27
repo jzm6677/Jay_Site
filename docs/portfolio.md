@@ -2,7 +2,7 @@
 
 I'm a digital artisit I'v been creating these kinds of projects.
 
-### [Return](https://jzm6677.github.io/Jay_Site/)
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
 
 1. [Photoshop](Photoshop.md)
 
