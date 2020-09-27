@@ -10,6 +10,7 @@ This is a page that give an Idea of who I am
 
 [Portfolio](portfolio.md)
 
+[Essay](essay.md)
 
 ## [Visit My Wordpress](https://sites.psu.edu/jzm6677/)
 
