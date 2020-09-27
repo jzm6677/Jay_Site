@@ -1,4 +1,4 @@
-### [Return](https://jzm6677.github.io/Jay_Site/)
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
 
 ## CONTACT ME
 
