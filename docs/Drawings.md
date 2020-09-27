@@ -42,5 +42,6 @@ Here you see some of both my physical and digital drawings.
 
 ![RW First Concept EX1.png](images/RW First Concept EX1.png)
 
+### [Previous](portfolio.md)
 
 ### [Return to main](https://jzm6677.github.io/Jay_Site/)
