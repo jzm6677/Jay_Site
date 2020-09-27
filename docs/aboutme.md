@@ -1,10 +1,18 @@
 # About Me
 
-Hi my name is Jalen, I perfer to go by Jay.
+Hi my name is Jalen, I prefer to go by Jay. I'm an
 
-I'm an artist who has an interest in coding and programming. I just started learning github and photoshop along with a few other things.
+artist who has an interest in coding and programming.
 
-I'm currently a freashman at Penn State Behrend studying digital humanities. I have interest in gaming and game development, graphics, music, and A.I.
+I just started learning github and photoshop along with
+
+a few other things. I'm currently a freshman at Penn
+
+State Behrend studying digital humanities. I have
+
+interest in gaming and game development, graphics,
+
+music, and A.I.
 
 
 
