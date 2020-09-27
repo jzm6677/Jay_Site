@@ -1,3 +1,9 @@
+### [Return](https://jzm6677.github.io/Jay_Site/)
+
+## CONTACT ME
+
+Email: jzm6677 at psu.edu
+
 ## SKILLS
 1. 2 years of Drafting in 2D & 3D in Autocad
 
