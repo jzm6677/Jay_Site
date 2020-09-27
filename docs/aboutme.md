@@ -15,5 +15,4 @@ interest in gaming and game development, graphics,
 music, and A.I.
 
 
-
 ### [Return to main](https://jzm6677.github.io/Jay_Site/)
