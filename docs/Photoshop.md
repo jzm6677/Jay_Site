@@ -6,7 +6,7 @@ Showing my progress, potential, and ability in my projects.
 
 ### [Previous](portfolio.md)
 
-### [Return](https://jzm6677.github.io/Jay_Site/)
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
 
 
 ## Cap v Ironman Disintegration Effect
@@ -28,3 +28,6 @@ Showing my progress, potential, and ability in my projects.
 ![WolfSpirits](images/WolfBlend2.jpg)
 
 
+### [Previous](portfolio.md)
+
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
