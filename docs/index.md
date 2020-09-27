@@ -11,7 +11,7 @@ This is a page that give an Idea of who I am
 [Portfolio](portfolio.md)
 
 
-## [Visit My Wordpress]( https://sites.psu.edu/jzm6677/portfolio/videos/)
+## [Visit My Wordpress](https://sites.psu.edu/jzm6677/)
 
 
 ## Reminder on how to customize my page
