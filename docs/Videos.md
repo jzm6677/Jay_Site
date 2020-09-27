@@ -3,7 +3,7 @@ Here you can find some of my creation involving editing, flim, and animation.
 
 ### [Previous](portfolio.md)
 
-### [Return](https://jzm6677.github.io/Jay_Site/)
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
 
 ## Animation
 
@@ -28,3 +28,7 @@ Here you can find some of my creation involving editing, flim, and animation.
 </figure> 
 
 ## Film
+
+### [Previous](portfolio.md)
+
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
