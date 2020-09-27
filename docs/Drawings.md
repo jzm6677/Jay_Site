@@ -3,7 +3,7 @@ Here you see some of both my physical and digital drawings.
 
 ### [Previous](portfolio.md)
 
-### [Return](https://jzm6677.github.io/Jay_Site/)
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
 
 ## Abstract Eye
 
@@ -43,3 +43,4 @@ Here you see some of both my physical and digital drawings.
 ![RW First Concept EX1.png](images/RW First Concept EX1.png)
 
 
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
