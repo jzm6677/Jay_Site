@@ -1,6 +1,8 @@
 # My Art work
 Here you see some of both my physical and digital drawings.
 
+### [Previous](portfolio.md)
+
 ### [Return](https://jzm6677.github.io/Jay_Site/)
 
 ## Abstract Eye
