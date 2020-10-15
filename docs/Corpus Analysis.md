@@ -18,4 +18,4 @@ In Macbeth I’m not surprise that the most used word is the name Macbeth. The s
 # N-Gram comparison
 In the AntConc files you can see n-grams in the Macbeth play are describing settings of places and the environment. While in the story Dracula the most common n-grams shown descriptions of what is seen, heard or felt. 
 
-![dracula antcon] ant(images/dracula antcon.PNG) ![antcon macbeth] ant(images/antcon macbeth.PNG)
+![dracula antcon] ant(images/dracula antcon.PNG) ![antcon macbeth] ant(images/antcon maacbeth.PNG)
