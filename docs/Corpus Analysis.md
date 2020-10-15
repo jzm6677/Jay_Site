@@ -22,4 +22,4 @@ In the AntConc files you can see n-grams in the Macbeth play are describing sett
 
 ![dracula antcon](images/dracula antcon.PNG)
 
-![antcon macbeth](images/antcon maacbeth.PNG)
+![antcon maacbeth](images/antcon maacbeth.PNG)
