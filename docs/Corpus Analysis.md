@@ -1,5 +1,7 @@
 # Corpus Analysis Reflection
 
+### [Previous](https://jzm6677.github.io/Jay_Site/)
+
 For my corpus analysis reflection I chose to analyize and compare Shakespeare, Macbeth and Bram Stoker, Dracula. Both these stories draw on the concept of there charaters desires so I wonder what the similarities the play and the story might have in style between each other.
 
 ![voyant dracula](images/voyant dracula.png) ![voyant macbeth](images/voyant macbeth.png)
@@ -19,3 +21,7 @@ In Macbeth I’m not surprise that the most used word is the name Macbeth. The s
 In the AntConc files you can see n-grams in the Macbeth play are describing settings of places and the environment. While in the story Dracula the most common n-grams shown descriptions of what is seen, heard or felt. 
 
 ![dracula antcon](images/dracula antcon.png) ![antcon maacbeth](images/antcon maacbeth.png)
+
+
+
+### [Return to main](https://jzm6677.github.io/Jay_Site/)
