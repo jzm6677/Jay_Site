@@ -1,39 +1,27 @@
 # ZORDAK
 
-[!](images/.md)
+[!jump](images/jump.jgp)
 
-[!](images/.md)
+[!loadsave](images/loadsave.jgp)
 
-[!](images/.md)
+[!map](images/map.jgp)
 
-[!](images/.md)
+[!settings](images/settings.jgp)
 
-[!](images/.md)
+[!settings1](images/settings1.jgp)
 
-[!](images/.md)
+[!shot](images/shot.jgp)
 
-[!](images/.md)
+[!start](images/start.jgp)
 
-[!](images/.md)
+[!transition](images/transition.jgp)
 
-[!](images/.md)
+[!](images/.jgp)
 
-[!](images/.md)
+[!](images/.jgp)
 
-[!](images/.md)
+[!](images/.jgp)
 
-[!](images/.md)
+[!](images/.jgp)
 
-[!](images/.md)
-
-[!](images/.md)
-
-[!](images/.md)
-
-[!](images/.md)
-
-[!](images/.md)
-
-[!](images/.md)
-
-[!](images/.md)
+[!](images/.jgp)
