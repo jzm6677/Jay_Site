@@ -1,7 +1,7 @@
 [ZORDAK](ZORDAK.md)
 
 
-[Encoyda](Encodya.md)
+[Encodya](Encodya.md)
 
 
 #### [Return to main](https://jzm6677.github.io/Jay_Site/)
