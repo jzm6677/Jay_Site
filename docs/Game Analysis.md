@@ -1,4 +1,4 @@
 [ZORDAK](ZORDAK.md)
 
 
-[ENCODYA](Encoyda.md)
+[Encoyda](Encoyda.md)
