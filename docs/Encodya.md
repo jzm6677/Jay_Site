@@ -12,20 +12,22 @@ my experience with ENCODYA while analysis second the game is a more graphical ga
 
 ![options](images/options.JPG)
 
-![](images/.JPG)
+![overview](images/overview.JPG)
 
-![](images/.JPG)
+![relate](images/relate.JPG)
 
-!](images/.JPG)
+![map](images/map.JPG)
 
-![](images/.JPG)
+![inven](images/inven.JPG)
 
-[](images/.JPG)
+![cutscene](images/cutscene.JPG)
 
-[](images/.JPG)
+![basic](images/basic.JPG)
 
-[](images/.JPG)
+![basic1](images/basic1.JPG)
 
-[](images/.JPG)
+![basic2](images/basic2.JPG)
 
-[](images/.JPG)
+![basic3](images/basic3.JPG)
+
+![achievements](images/achievements.JPG)
