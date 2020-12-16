@@ -10,16 +10,13 @@ my experience with ENCODYA while analysis second the game is a more graphical ga
 
 ![options](images/options.JPG)
 
-
-![basic](images/basic.JPG)
-
-
-![basic1](images/basic1.JPG)
-
-
 ![basic2](images/basic2.JPG)
 
 ![basic3](images/basic3.JPG)
+
+![basic](images/basic.JPG)
+
+![basic1](images/basic1.JPG)
 
 ![cutscene](images/cutscene.JPG)
 
